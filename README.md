@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-I have no idea what to put here... So...
+I'm Andrew.
+
+B.S Computer Science, Georgia Institute of Technology, class of '24
+
 
 <!--
 **wooandrew/wooandrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
