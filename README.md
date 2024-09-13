@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-I'm Andrew.
+I'm Andrew Woo.
+I'm a Master's student at the Georgia Institute of Technology studying Computer Science with concentration in High Performance Computing. I received my Bachelor's degree in Computer Science with Highest Honors from Georgia Tech in May of 2024, with threads in Systems Architecture and Information/Internetworks.
 
-B.S Computer Science, Georgia Institute of Technology, class of '24
+I am currently working as a Graduate Research Assistant at the Georgia Institute of Technology, assisting in the advancement of research into satellite systems in Low Earth Orbit (LEO) and developing simulations for satellites in cis-lunar and lunar orbit.
+
+I'm passionate about computing systems, edge-computing, embedded systems, systems architecture, high performance computing, and cutting-edge avionics and space systems.
 
 
 <!--
