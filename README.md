@@ -1,11 +1,10 @@
-### Hi there 👋
+### Hi, I'm Andrew Woo 👋
 
-I'm Andrew Woo.
-I'm a Master's student at the Georgia Institute of Technology studying Computer Science with concentration in Computing Systems. I received my Bachelor's degree in Computer Science with Highest Honors from Georgia Tech in May of 2024, with threads in Systems Architecture and Information/Internetworks.
+I'm a Software and Reverse Engineer at Caesar Creek Software, with a strong background in computing systems and low-level development.
 
-I am currently working as a Graduate Research Assistant at the Georgia Institute of Technology, assisting in the advancement of research into satellite systems in Low Earth Orbit (LEO) and developing simulations for satellites in cis-lunar and lunar orbit.
+I completed my Master's degree in Computer Science at the Georgia Institute of Technology in May 2025, specializing in Computing Systems. I also earned my Bachelor's degree in Computer Science from Georgia Tech in May 2024, graduating with Highest Honors and with threads in Systems Architecture and Information Internetworks.
 
-I'm passionate about computing systems, edge-computing, embedded systems, systems architecture, high performance computing, and cutting-edge avionics and space systems.
+I'm passionate about cyber/hardware security, computing systems, edge-computing, embedded systems, systems architecture, high performance computing, and cutting-edge avionics and space systems.
 
 
 <!--
